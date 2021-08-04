@@ -65,8 +65,11 @@
      <Compile Include="Assets\Joystick Pack\Examples\JoystickSetterExample.cs" />
      <Compile Include="Assets\script\noteAppear.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+     <Compile Include="Assets\script\RoomToNote.cs" />
      <Compile Include="Assets\Enviroment\enviroment\Office building\scripts\Door.cs" />
+     <Compile Include="Assets\script\OpenBook.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+     <Compile Include="Assets\script\UDP.cs" />
      <Compile Include="Assets\script\LevelLoader.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
@@ -100,6 +103,7 @@
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
      <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\GoHome.cs" />
+     <Compile Include="Assets\script\GameManager.cs" />
      <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\JoystickTest.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\playerMovement.cs" />
@@ -109,8 +113,6 @@
      <Compile Include="Assets\script\optionScene.cs" />
      <Compile Include="Assets\Supercyan Character Pack Free Sample\Scripts\FreeCameraLogic.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
-     <Compile Include="Assets\script\OpenBook.cs" />
-     <Compile Include="Assets\script\RoomToNote.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
