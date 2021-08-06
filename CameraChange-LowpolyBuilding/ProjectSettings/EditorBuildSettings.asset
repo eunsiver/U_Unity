@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/menu.unity
     guid: fdbc191ab17890741a49ec9417fde837
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/PlayGround.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/home.unity
@@ -18,9 +18,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Loading.unity
     guid: a1be26b6e8b716d4abb97381ebd1bbf4
   - enabled: 1
-    path: Assets/Scenes/SimpleNaturePack_Demo.unity
+    path: Assets/Scenes/characterCreation.unity
     guid: 5e7af4bd95ac53a4cb784a9eedf8f6f9
   - enabled: 1
     path: Assets/Scenes/Book.unity
     guid: 36dadca8051a25b459aaac3372ba8b2c
+  - enabled: 0
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: a51e8c98b5db82d4c8288077df31df18
+  - enabled: 1
+    path: Assets/Scenes/TestPlayGround 1.unity
+    guid: e0f011e4cc31a214bb990bf1c79c5cea
   m_configObjects: {}

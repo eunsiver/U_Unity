@@ -8,11 +8,12 @@ public class LevelLoader : MonoBehaviour
 {
   [SerializeField]
   Image progressBar;
-  static string nextScene;
+  //static string nextScene;
   // Start is called before the first frame update
-  public static void LoadScene(string sceneName)
+  //public static void LoadScene(string sceneName)
+  public static void LoadScene()
   {
-    nextScene = sceneName;
+    //nextScene = sceneName;
     SceneManager.LoadScene("Loading");
   }
   void Start()
@@ -21,7 +22,7 @@ public class LevelLoader : MonoBehaviour
   }
   IEnumerator LoadSceneProcess()
   {
-    AsyncOperation op = SceneManager.LoadSceneAsync(nextScene);
+    AsyncOperation op = SceneManager.LoadSceneAsync("playground");
     op.allowSceneActivation = false;
 
     float timer = 0f;

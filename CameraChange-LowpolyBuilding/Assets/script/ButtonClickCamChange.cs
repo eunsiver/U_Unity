@@ -9,11 +9,11 @@ public class ButtonClickCamChange : MonoBehaviour
   public Camera[] arrCam;
   public int nCamCount;
   int nNowCam = 1;
-  void Start()
-  {
-    Button btn = button.GetComponent<Button>();
-    btn.onClick.AddListener(TaskOnClick);
-  }
+  // void Start()
+  // {
+  //   Button btn = button.GetComponent<Button>();
+  //   btn.onClick.AddListener(TaskOnClick);
+  // }
 
   // Update is called once per frame
   public void TaskOnClick()
