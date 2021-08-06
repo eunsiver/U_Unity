@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PeopleCharacter : MonoBehaviour
 {
-  private static PeopleCharacter Instance = null;
+  //private static PeopleCharacter Instance = null;
   // Start is called before the first frame update
   private void Awake()
   {
